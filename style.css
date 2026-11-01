@@ -48,7 +48,9 @@ button {
     color: #26354d;
     font-size: 23px;
 }
-
+button:hover {
+    background-color: #b3c9e2;
+}
 .special {
     background-color: #bfd0e6;
 }
